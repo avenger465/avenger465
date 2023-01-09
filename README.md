@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/jonathan-mills-0810241b8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="jonathanmills.net">
+    <a href="https://jonathanmills.net">
       <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge"/>
     </a>
   </div>
