@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
 <!--
 **avenger465/avenger465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
