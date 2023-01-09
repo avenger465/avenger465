@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jonathan-mills-0810241b8/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
 <!--
