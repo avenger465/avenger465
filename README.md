@@ -5,8 +5,10 @@
     <a href="https://www.linkedin.com/in/jonathan-mills-0810241b8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
