@@ -3,6 +3,9 @@
     <a href="https://www.linkedin.com/in/jonathan-mills-0810241b8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
+    <a href="jonathanmills.net">
+      <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>
   <div align="center">
