@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/jonathan-mills-0810241b8/">
@@ -10,7 +8,23 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+  
+---
+  
+### 👨‍💻 About Me :
+  
+I am a Master's level student currently studying Games Development at UCLan
+  
+- Interested in Graphics Programming
+  
+---
+  
+### 🛠️ Languages and Tools :
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPlusPlus" width="40" height="40"/>&nbsp;
+  </div>
+    
+  
 <!--
 **avenger465/avenger465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
