@@ -7,9 +7,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://komarev.com/ghpvc/?username=avenger465&style=flat-square&color=blue" alt=""/>    
 </div>
   
 ---
