@@ -15,7 +15,7 @@
   
 ### 👨‍💻 About Me :
   
-I am a Master's level student currently studying Games Development at UCLan
+I am a Game Programer currently working at Behaviour Rotterdam
   
 - Interested in Graphics Programming
   
