@@ -15,7 +15,7 @@
   
 ### 👨‍💻 About Me :
   
-I am a Game Programer currently working at Behaviour Rotterdam
+I am a Game Programmer currently working at Behaviour Rotterdam
   
 - Interested in Graphics Programming
   
